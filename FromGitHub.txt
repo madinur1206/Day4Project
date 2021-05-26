@@ -1,1 +1,3 @@
 this is file i added directelt from Github.com to situmulate my co-worker push this change
+
+Added some changes from local
